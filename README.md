@@ -16,6 +16,7 @@ A complete machine-learning classification project using the Breast Cancer Wisco
 - F1-Score
 - ROC-AUC
 
+> Educational use only. This project is not a clinical diagnostic system.
 
 ## Dataset
 The dataset is loaded directly with `sklearn.datasets.load_breast_cancer`.
@@ -61,13 +62,10 @@ Breast_Cancer_ML_GitHub_Repository/
 ## How to Run
 ```bash
 pip install -r requirements.txt
-Breast_Cancer_ML_Project (1).ipynb
+jupyter notebook Breast_Cancer_ML_Project.ipynb
 ```
 
-
+You can also upload the notebook to Google Colab.
 
 ## Conclusion
-The project demonstrates a reproducible workflow for disease classification, including preprocessing, model training, evaluation, and comparison. For medical prediction, model selection should consider
-Recall/Sensitivity, Specificity, F1-Score and ROC-AUC in addition to Accuracy.
 The project demonstrates a reproducible workflow for disease classification, including preprocessing, model training, evaluation, and comparison. For medical prediction, model selection should consider Recall/Sensitivity, Specificity, F1-Score and ROC-AUC in addition to Accuracy.
-
