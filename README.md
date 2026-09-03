@@ -16,7 +16,6 @@ A complete machine-learning classification project using the Breast Cancer Wisco
 - F1-Score
 - ROC-AUC
 
-> Educational use only. This project is not a clinical diagnostic system.
 
 ## Dataset
 The dataset is loaded directly with `sklearn.datasets.load_breast_cancer`.
