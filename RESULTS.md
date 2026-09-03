@@ -32,4 +32,3 @@ Logistic Regression produced the strongest overall result in this experiment, wh
 
 For medical prediction tasks, Accuracy should not be considered alone. Recall/Sensitivity, Specificity, F1-Score and ROC-AUC are also important when evaluating a classifier.
 
-> These results are for educational and experimental purposes only and should not be interpreted as clinical diagnostic performance.
