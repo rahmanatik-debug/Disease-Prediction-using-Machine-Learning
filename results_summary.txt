@@ -1,0 +1,25 @@
+BREAST CANCER ML - FINAL RESULTS
+
+Logistic Regression
+Accuracy: 0.9825
+Precision: 0.9861
+Recall/Sensitivity: 0.9861
+Specificity: 0.9762
+F1-Score: 0.9861
+ROC-AUC: 0.9954
+
+Random Forest
+Accuracy: 0.9561
+Precision: 0.9589
+Recall/Sensitivity: 0.9722
+Specificity: 0.9286
+F1-Score: 0.9655
+ROC-AUC: 0.9932
+
+SVM
+Accuracy: 0.9825
+Precision: 0.9861
+Recall/Sensitivity: 0.9861
+Specificity: 0.9762
+F1-Score: 0.9861
+ROC-AUC: 0.9950
